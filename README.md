@@ -12,3 +12,6 @@ Adaptive Procedure for Threshold Estimation
 ### Test Run Programs
 * visuals2.ipynb
 * testing.ipynb
+* Mostly done.ipynb
+
+The rest is csv of data collected from teammates.
