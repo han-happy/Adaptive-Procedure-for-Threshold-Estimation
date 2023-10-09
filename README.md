@@ -13,7 +13,7 @@ Adaptive Procedure for Threshold Estimation
 * the data visualization
   * shows the progression of the difference in pitch decreasing and when the subject starts to struggle, their threshold estimate
 
-[comment] ![](https://github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png "frequency difference") {width=100px,height=70px}
+[comment] <> ( ![](https://github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png "frequency difference") {width=100px,height=70px} )
 
 <img src="github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png" title="freq diff" height="150"/>
 
