@@ -1,5 +1,7 @@
 # Psych14P-final
+
 Spring 2023, Psych / Cogs 14P Final Project with Dr. Srinivasan
+
 Teammates consist of Quiana and Bin
 
 Adaptive Procedure for Threshold Estimation
