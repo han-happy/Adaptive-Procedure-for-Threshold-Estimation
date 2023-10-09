@@ -1,7 +1,6 @@
 # Psych14P-final
 
-Spring 2023, Psych / Cogs 14P Final Project with Dr. Srinivasan
-
+Spring 2023, Psych / Cogs 14P Final Project with Dr. Srinivasan  
 Teammates consist of Quiana and Bin
 
 Adaptive Procedure for Threshold Estimation
@@ -13,6 +12,9 @@ Adaptive Procedure for Threshold Estimation
   * the 3 subjects are my two teammates and myself
 * the data visualization
   * shows the progression of the difference in pitch decreasing and when the subject starts to struggle, their threshold estimate
+
+(/images/happyfrequencydifference.png)
+
 
 ## Key Files
 ### Finalized Programs
