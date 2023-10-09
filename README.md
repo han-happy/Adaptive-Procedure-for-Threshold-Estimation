@@ -15,7 +15,7 @@ Adaptive Procedure for Threshold Estimation
 
 <!---  ![](https://github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png "frequency difference") {width=100px,height=70px}  --->
 
-<img src="https://github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png" title="freq diff" height="400"/>
+<img src="https://github.com/han-happy/Adaptive-Procedure-for-Threshold-Estimation/blob/main/happyfrequencydifference.png" title="freq diff" height="350"/>
 
 
 ## Key Files
